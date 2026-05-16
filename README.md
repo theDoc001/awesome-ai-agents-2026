@@ -537,6 +537,7 @@
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
+| [fivedrisk](https://github.com/theDoc001/fivedrisk) | Per-action runtime governance for AI agents. Deterministic 5-dimension scoring (Data, Tool, Reversibility, External, Autonomy), Compositional risk, append-only SQLite decision log plus NDJSON event stream for SIEM. Designed for environments where regulatory record-keeping matters. Apache-2.0, no commercial tier. |
 | [Bifrost](https://bifrost.ai) | Real-time security enforcement in agent pipelines. |
 | [AuditOne](https://auditone.io) | Automated risk assessments and audit-ready documentation. |
 | [EU AI Act (Official)](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Official EU AI regulatory framework. Risk tiers: Unacceptable, High-Risk, Limited, Minimal. |
